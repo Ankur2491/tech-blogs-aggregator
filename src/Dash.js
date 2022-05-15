@@ -53,7 +53,7 @@ const Dash = (props) => {
                 </div>
             </div>
             <hr />
-            {loading === false && items.length<1?<h3>No results found!</h3>:null}
+            {loading === false && items.length<1 && selectedOption !=null?<h3>No results found!</h3>:null}
             {loading === true?<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" />:
             <div>
             {/* <h5>Showing posts of: {selectedOption}</h5> */}
