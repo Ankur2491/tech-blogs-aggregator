@@ -52,6 +52,10 @@ const companies = [
       label: "Allegro.tech"
     },
     {
+      value: 'Amazon',
+      label: 'Amazon'
+    },
+    {
       value: "Appnexus",
       label: "Appnexus"
     },
