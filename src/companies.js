@@ -48,6 +48,10 @@ const companies = [
       label: "Algolia"
     },
     {
+      value: "Algorithmia",
+      label: "Algorithmia"
+    },
+    {
       value: "Allegro.tech",
       label: "Allegro.tech"
     },
@@ -162,6 +166,10 @@ const companies = [
     {
       value: "Blogfoster",
       label: "Blogfoster"
+    },
+    {
+      value: "Bloomberg",
+      label: "Bloomberg"
     },
     {
       value: "Boxever",
@@ -384,6 +392,10 @@ const companies = [
       label: "Envoy"
     },
     {
+      value: "EQ Works",
+      label: "EQ Works"
+    },
+    {
       value: "Erlang Solutions",
       label: "Erlang Solutions"
     },
@@ -446,6 +458,10 @@ const companies = [
     {
       value: "Flipboard",
       label: "Flipboard"
+    },
+    {
+      value: "Flipkart",
+      label: "Flipkart"
     },
     {
       value: "Foursquare",
@@ -656,6 +672,10 @@ const companies = [
       label: "Instagram"
     },
     {
+      value: "Instawork",
+      label: "Instawork"
+    },
+    {
       value: "Intel",
       label: "Intel"
     },
@@ -834,6 +854,10 @@ const companies = [
     {
       value: "Myntra Data Science",
       label: "Myntra Data Science"
+    },
+    {
+      value: "Nanonets",
+      label: "Nanonets"
     },
     {
       value: "Netflix",
@@ -1110,6 +1134,10 @@ const companies = [
     {
       value: "Snyk",
       label: "Snyk"
+    },
+    {
+      value: "Software Engineering Daily",
+      label: "Software Engineering Daily"
     },
     {
       value: "Songkick",
@@ -1414,6 +1442,10 @@ const companies = [
     {
       value: "Zenefits",
       label: "Zenefits"
+    },
+    {
+      value: "ZestMoney",
+      label: "ZestMoney"
     },
     {
       value: "Zillow",
