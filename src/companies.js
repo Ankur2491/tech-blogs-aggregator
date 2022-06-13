@@ -632,6 +632,10 @@ const companies = [
       label: "Hostinger"
     },
     {
+      value: "Hotstar",
+      label: "Hotstar"
+    },
+    {
       value: "Housing.com",
       label: "Housing.com"
     },
