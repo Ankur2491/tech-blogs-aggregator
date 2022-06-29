@@ -8,7 +8,7 @@ const Dash = (props) => {
     function handleChange(e) {
         setSelectedOption(e.value);
         setLoading(true);
-        fetch(`https://tech-blog-aggregator-api.herokuapp.com/feeds/${e.value}`).then(response => response.text())
+        fetch(`https://tech-blogs-aggregator-api.vercel.app/feeds/${e.value}`).then(response => response.text())
             .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
             .then((xml) => xml.querySelectorAll('item'))
             .then((items) => {
