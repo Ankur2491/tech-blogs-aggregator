@@ -1,0 +1,21 @@
+button{
+    margin-bottom: 5%;
+}
+.card{
+    width: 100%;
+    margin-bottom: 2%;
+    border: 1px dashed black;
+}
+h6{
+    color: grey;
+    text-align: left;
+}
+h5{
+    text-align: left;
+}
+.card-text{
+    text-align: left;
+}
+.link{
+    text-align: left;
+}
