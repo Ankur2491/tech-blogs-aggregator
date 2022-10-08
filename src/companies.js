@@ -668,6 +668,10 @@ const companies = [
       label: "Indeed"
     },
     {
+      value: "InfoQ",
+      label: "InfoQ"
+    },
+    {
       value: "Instacart",
       label: "Instacart"
     },
