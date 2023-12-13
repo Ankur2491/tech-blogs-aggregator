@@ -59,7 +59,7 @@ const Dash = (props) => {
             {/* <h5>Showing posts of: {selectedOption}</h5> */}
             <div className="row">{
                 items.map(el =>
-                    <div className="col-md-12">
+                    <div className="col-md-12" key={el.link}>
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">{el.title.replace(/^<\!\[CDATA\[|\]\]>$/g, '')}</h5>
